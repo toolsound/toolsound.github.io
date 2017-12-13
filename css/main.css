@@ -1,0 +1,51 @@
+body {
+	background-color: rgb(250, 252, 253), 61%, 34%)
+}
+
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 320%;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: #fdfdfd;
+}
+
+img {
+	height: 170px;
+	width: 170px;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+
+}
+
+#header {
+	top: -10px;
+	background-color: #50acb8;
+}
+
+ul{
+	list-style-type: none;
+	position: fixed;
+	margin: -10px;
+}
+
+li {
+	display: inline;
+	font-family: 'Open Sans', sans-serif;
+	color: #ffffff;
+	padding: 5px;
+	background-color: #50acb8
+}
+
+p {
+	font-family: 'Calibri';
+	font-size: 1em;
+}
+
+#footer{
+	clear: both;
+	position: relative;
+	bottom: -20px;
+	height: 75px;
+	background-color: #3c4543;
+}
