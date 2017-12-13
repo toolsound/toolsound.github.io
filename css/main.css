@@ -3,7 +3,7 @@ body {
 }
 
 h2 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Calibri';
 	font-size: 320%;
 	text-align: center;
 	padding-top: 25px;
@@ -31,7 +31,7 @@ ul{
 
 li {
 	display: inline;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Calibri';
 	color: #ffffff;
 	padding: 5px;
 	background-color: #50acb8
